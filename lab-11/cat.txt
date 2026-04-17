@@ -1,1 +1,3 @@
-Alice likes cats.
+<<<<<<< HEAD
+Alice and Bob like cats.
+>>>>>>> 4361f61 (Made changes to cat.txt)
